@@ -1,16 +1,16 @@
 {
-"name": "lavavip168",
-"theme": "lava vip168",
-"version": "6.1.1",
-"description": "lava vip168 สมัครเว็บบาคาร่าเว็บตรง คนเล่นเยอะ รับเครดิตฟรี",
-"keywords": [
-"lava vip168",
-"lava vip168 เครดิตฟรี",
-"lava vip168 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/lavavip168",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "lavavip168",
+  "theme": "lava vip168",
+  "version": "6.2.0",
+  "description": "lava vip168 สมัครเว็บบาคาร่าเว็บตรง คนเล่นเยอะ รับเครดิตฟรี",
+  "keywords": [
+    "lava vip168",
+    "lava vip168 เครดิตฟรี",
+    "lava vip168 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/lavavip168",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
